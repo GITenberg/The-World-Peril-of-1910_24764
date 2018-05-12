@@ -1,0 +1,28 @@
+_repo: The-World-Peril-of-1910_24764
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Griffith, George Chetwynd
+    alias: Griffith-Jones, George Chetwynd
+    birthdate: 1857
+    deathdate: 1906
+    gutenberg_agent_id: '8557'
+    url: http://www.gutenberg.org/2009/agents/8557
+    wikipedia: http://en.wikipedia.org/wiki/George_Griffith
+description: ''
+gutenberg_issued: '2008-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Science fiction, English'
+title: The World Peril of 1910
+url: http://www.gutenberg.org/ebooks/24764
